@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "IptvVpnApp"
-include(":application")
+include(":app")
